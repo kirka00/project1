@@ -12,7 +12,7 @@ int main() {
     while (score1 != 21 || score2 != 21) {
     }
     if (score1 == 21) {  // let's check who won
-        printf("              left player wins! You deserved it!    \n");
+        printf("              Left player wins! You deserved it!    \n");
         return 0;
     } else if (score2 == 21) {
         printf("              Right player wins! You deserved it!    \n");
